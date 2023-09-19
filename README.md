@@ -1,4 +1,4 @@
-# Interactive card details form
+# Challenge 2 - Interactive card details form
 
 ## The challenge
 
